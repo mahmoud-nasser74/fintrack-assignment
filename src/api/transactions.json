@@ -1,0 +1,10 @@
+[
+  {
+    "_comment": "This file contains demo transactions for the local mock API. Add more data points as needed.",
+    "id": 1,
+    "date": "2026-01-03",
+    "merchant": "Tesco",
+    "category": "Groceries",
+    "amount": -42.75
+  }
+]
