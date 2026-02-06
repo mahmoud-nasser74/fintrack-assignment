@@ -316,7 +316,9 @@ NEXT STEPS FOR YOU
 5. Render pie chart  
 6. Implement loading + error states  
 7. Write tests  
-8. Polish UI  
-9. Submit repo  
+8. Polish UI
+9. Document implementation
+10. Specify assumptions
+11. Submit repo  
 
 Good luck and have fun!
